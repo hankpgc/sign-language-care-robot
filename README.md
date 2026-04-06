@@ -63,11 +63,11 @@ ROS NeuronBot 自主導航，在聽障長者發生緊急狀況時自動派遣機
 ---
 
 ### 訓練環境
-Ubuntu 18.04
-Python 3.7
-TensorFlow 2.x
-OpenCV
-GPU: NVIDIA RTX 3060 12G
+- Ubuntu 18.04
+- Python 3.7
+- TensorFlow 2.x
+- OpenCV
+- GPU: NVIDIA RTX 3060 12G
 
 ---
 
