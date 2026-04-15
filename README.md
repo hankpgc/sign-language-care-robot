@@ -7,7 +7,7 @@
 
 ## DEMO
 
-![DEMO影片](https://youtu.be/9cEari_us1s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi9cEari_us1s/0.jpg)](https://www.youtube.com/watch?v=9cEari_us1s)
 
 
 ---
