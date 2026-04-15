@@ -7,7 +7,7 @@
 
 ## DEMO
 
-[![DEMO](https://www.youtube.com/watch?v=9cEari_us1s/0.jpg)](https://youtu.be/9cEari_us1s)
+[![DEMO](https://img.youtube.com/vi/9cEari_us1s/0.jpg)](https://youtu.be/9cEari_us1s)
 
 
 ---
